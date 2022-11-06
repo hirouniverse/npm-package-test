@@ -1,0 +1,19 @@
+{
+  "name": "@hirouniverse/npm-package-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirouniverse/npm-package-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hirouniverse/npm-package-test/issues"
+  },
+  "homepage": "https://github.com/hirouniverse/npm-package-test#readme"
+}
