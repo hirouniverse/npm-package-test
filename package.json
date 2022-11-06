@@ -1,6 +1,6 @@
 {
   "name": "@hirouniverse/npm-package-test",
-  "version": "0.0.2-alpha",
+  "version": "0.0.1-alpha",
   "description": "",
   "main": "index.js",
   "scripts": {
